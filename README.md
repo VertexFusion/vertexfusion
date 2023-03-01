@@ -17,7 +17,7 @@ are a number of similar projects, which are a mixture of heavy dependencies and 
 it difficult to integrate them into other projects. We shall reduce external dependencies to a minimum 
 and use all implement all CAD-relevant content ourselves and here.
 
-If bindings into other languages are desired, we will we will create our own repositories and collect
+If bindings into other languages are desired, we will create our own repositories and collect
 them here. 
 
 In general we are looking forward to fellow contributors who will help us with this.
